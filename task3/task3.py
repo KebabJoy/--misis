@@ -15,7 +15,6 @@ def task(csv_string):
         r1[i] = True
         r2[j] = True
 
-
     for [l, r] in gp:
         for [i, j] in gp:
             if r == i:
